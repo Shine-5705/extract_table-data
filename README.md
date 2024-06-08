@@ -23,7 +23,7 @@ This project uses PaddleOCR to extract tabular data from images and save the ext
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/your-username/ocr-table-extraction.git
+    git clone https://github.com/Shine-5705/extract_table-data.git
     cd ocr-table-extraction
     ```
 
