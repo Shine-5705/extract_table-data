@@ -30,8 +30,8 @@ This project uses PaddleOCR to extract tabular data from images and save the ext
 2. Create a virtual environment and activate it:
 
     ```sh
-    python -m venv venv
-    source venv/bin/activate  # On Windows: venv\Scripts\activate
+    python -m venv myvenv
+    source myvenv/bin/activate  # On Windows: venv\Scripts\activate
     ```
 
 3. Install the required packages:
@@ -47,8 +47,8 @@ This project uses PaddleOCR to extract tabular data from images and save the ext
 2. Modify the `image_dir` and `csv_output_dir` variables in the script to point to your image directory and desired output directory for CSV files:
 
     ```python
-    image_dir = '/path/to/your/image/folder'
-    csv_output_dir = '/path/to/save/csv/files'
+    image_dir = '[Business Quant] Image dataset for OCR'
+    csv_output_dir = 'extracted'
     ```
 
 3. Run the script:
