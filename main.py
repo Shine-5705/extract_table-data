@@ -7,7 +7,6 @@ import pandas as pd
 import numpy as np
 import matplotlib.font_manager as fm
 
-# Initialize PaddleOCR with the appropriate model
 ocr = PaddleOCR(use_angle_cls=True, lang='en')
 
 # Directory containing the images
