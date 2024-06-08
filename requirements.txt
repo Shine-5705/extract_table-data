@@ -1,0 +1,6 @@
+# Install necessary packages
+opencv-python-headless 
+paddlepaddle 
+paddleocr
+matplotlib 
+pandas
